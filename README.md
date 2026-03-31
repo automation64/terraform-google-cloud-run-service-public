@@ -48,7 +48,7 @@ This repository is provided "as is" without any warranties. The author is not re
 
 ## 👤 Author
 
-- X_AUTOR_X
+- [SerDigital64](https://github.com/serdigital64)
 
 ---
 
