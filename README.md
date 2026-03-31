@@ -1,12 +1,12 @@
-# terraform-google-cloud-run-service
+# terraform-google-cloud-run-service-public
 
-![License](https://img.shields.io/github/license/automation64/terraform-google-cloud-run-service)
-![GitHub stars](https://img.shields.io/github/stars/automation64/terraform-google-cloud-run-service?style=social)
-![GitHub forks](https://img.shields.io/github/forks/automation64/terraform-google-cloud-run-service?style=social)
+![License](https://img.shields.io/github/license/automation64/terraform-google-cloud-run-service-public)
+![GitHub stars](https://img.shields.io/github/stars/automation64/terraform-google-cloud-run-service-public?style=social)
+![GitHub forks](https://img.shields.io/github/forks/automation64/terraform-google-cloud-run-service-public?style=social)
 
 ---
 
-- [terraform-google-cloud-run-service](#terraform-google-cloud-run-service)
+- [terraform-google-cloud-run-service-public](#terraform-google-cloud-run-service-public)
   - [📌 Overview](#-overview)
   - [🛠 Contributing](#-contributing)
   - [⚠️ Disclaimer](#️-disclaimer)
@@ -19,8 +19,10 @@
 
 Terraform module for Google Cloud Run:
 
-- Scope: single service
+- Scope: single service with public access
 - Features:
+  - Ingress type: public
+  - Container: placeholder to allow CICD based deployments
 
 ---
 
@@ -28,7 +30,7 @@ Terraform module for Google Cloud Run:
 
 Contributions are welcome! Help us improve by submitting issues, feature requests, or pull requests.
 
-- [Code of Conduct](https://github.com/automation64/terraform-google-cloud-run-service/blob/main/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/automation64/terraform-google-cloud-run-service-public/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
@@ -40,7 +42,7 @@ This repository is provided "as is" without any warranties. The author is not re
 
 ## 📜 License
 
-**terraform-google-cloud-run-service** is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt).
+**terraform-google-cloud-run-service-public** is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 ---
 
